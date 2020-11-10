@@ -2893,6 +2893,8 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/hi6250-common/proprietary/lib64/vndk-26/libgui.so:system/lib64/vndk-26/libgui.so \
     vendor/huawei/hi6250-common/proprietary/lib64/vndk-26/libhardware_legacy.so:system/lib64/vndk-26/libhardware_legacy.so \
     vendor/huawei/hi6250-common/proprietary/lib64/libhwsmartdisplay_jni.so:system/lib64/libhwsmartdisplay_jni.so \
+    vendor/huawei/hi6250-common/proprietary/lib64/libaptXHD_encoder.so:system/lib64/libaptXHD_encoder.so \
+    vendor/huawei/hi6250-common/proprietary/lib64/libaptX_encoder.so:system/lib64/libaptX_encoder.so \
     vendor/huawei/hi6250-common/proprietary/lib64/vndk-26/libicui18n.so:system/lib64/vndk-26/libicui18n.so \
     vendor/huawei/hi6250-common/proprietary/lib64/vndk-26/libicuuc.so:system/lib64/vndk-26/libicuuc.so \
     vendor/huawei/hi6250-common/proprietary/lib64/vndk-26/libjpeg.so:system/lib64/vndk-26/libjpeg.so \
