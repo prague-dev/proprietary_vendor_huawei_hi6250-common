@@ -2651,5 +2651,4 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/hi6250-common/proprietary/lib64/libchrlog.so:system/lib64/libchrlog.so \
     vendor/huawei/hi6250-common/proprietary/lib64/libc_sec_hisi_connectivity.so:system/lib64/libc_sec_hisi_connectivity.so \
     vendor/huawei/hi6250-common/proprietary/lib64/libpf_customize_hisi.so:system/lib64/libpf_customize_hisi.so \
-    vendor/huawei/hi6250-common/proprietary/lib64/libwifi-system.so:system/lib64/libwifi-system.so \
     vendor/huawei/hi6250-common/proprietary/lib64/libwifi-hal.so:system/lib64/libwifi-hal.so
