@@ -2634,6 +2634,9 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/hi6250-common/proprietary/etc/charger/800x1280_hz/number_8.png:system/etc/charger/800x1280_hz/number_8.png \
     vendor/huawei/hi6250-common/proprietary/etc/charger/800x1280_hz/number_9.png:system/etc/charger/800x1280_hz/number_9.png \
     vendor/huawei/hi6250-common/proprietary/etc/charger/800x1280_hz/percent_sign.png:system/etc/charger/800x1280_hz/percent_sign.png \
+    vendor/huawei/hi6250-common/proprietary/framework/com.android.nfc_extras.jar:system/framework/com.android.nfc_extras.jar \
+    vendor/huawei/hi6250-common/proprietary/lib/android.hardware.nfc@1.0.so:system/lib/android.hardware.nfc@1.0.so \
+    vendor/huawei/hi6250-common/proprietary/lib/libnfc_ndef.so:system/lib/libnfc_ndef.so \
     vendor/huawei/hi6250-common/proprietary/lib/vndk-26/android.frameworks.schedulerservice@1.0.so:system/lib/vndk-26/android.frameworks.schedulerservice@1.0.so \
     vendor/huawei/hi6250-common/proprietary/lib/vndk-26/android.frameworks.sensorservice@1.0.so:system/lib/vndk-26/android.frameworks.sensorservice@1.0.so \
     vendor/huawei/hi6250-common/proprietary/lib/vndk-26/android.frameworks.vr.composer@1.0.so:system/lib/vndk-26/android.frameworks.vr.composer@1.0.so \
@@ -2814,6 +2817,11 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/hi6250-common/proprietary/lib/vndk-sp-26/libunwind.so:system/lib/vndk-sp-26/libunwind.so \
     vendor/huawei/hi6250-common/proprietary/lib/vndk-sp-26/libutils.so:system/lib/vndk-sp-26/libutils.so \
     vendor/huawei/hi6250-common/proprietary/lib/vndk-sp-26/hw/android.hidl.memory@1.0-impl.so:system/lib/vndk-sp-26/hw/android.hidl.memory@1.0-impl.so \
+    vendor/huawei/hi6250-common/proprietary/lib64/android.hardware.nfc@1.0.so:system/lib64/android.hardware.nfc@1.0.so \
+    vendor/huawei/hi6250-common/proprietary/lib64/android.hardware.nfc@1.1.so:system/lib64/android.hardware.nfc@1.1.so \
+    vendor/huawei/hi6250-common/proprietary/lib64/libnfc-nci.so:system/lib64/libnfc-nci.so \
+    vendor/huawei/hi6250-common/proprietary/lib64/libnfc_nci_jni.so:system/lib64/libnfc_nci_jni.so \
+    vendor/huawei/hi6250-common/proprietary/lib64/libnfc_ndef.so:system/lib64/libnfc_ndef.so \
     vendor/huawei/hi6250-common/proprietary/lib64/vndk-26/android.frameworks.displayservice@1.0.so:system/lib64/vndk-26/android.frameworks.displayservice@1.0.so \
     vendor/huawei/hi6250-common/proprietary/lib64/vndk-26/android.frameworks.schedulerservice@1.0.so:system/lib64/vndk-26/android.frameworks.schedulerservice@1.0.so \
     vendor/huawei/hi6250-common/proprietary/lib64/vndk-26/android.frameworks.sensorservice@1.0.so:system/lib64/vndk-26/android.frameworks.sensorservice@1.0.so \
@@ -2849,6 +2857,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/hi6250-common/proprietary/lib64/vndk-26/android.hardware.media@1.0.so:system/lib64/vndk-26/android.hardware.media@1.0.so \
     vendor/huawei/hi6250-common/proprietary/lib64/vndk-26/android.hardware.memtrack@1.0.so:system/lib64/vndk-26/android.hardware.memtrack@1.0.so \
     vendor/huawei/hi6250-common/proprietary/lib64/vndk-26/android.hardware.nfc@1.0.so:system/lib64/vndk-26/android.hardware.nfc@1.0.so \
+    vendor/huawei/hi6250-common/proprietary/lib64/vndk-26/android.hardware.nfc@1.1.so:system/lib64/vndk-26/android.hardware.nfc@1.1.so \
     vendor/huawei/hi6250-common/proprietary/lib64/vndk-26/android.hardware.power@1.0.so:system/lib64/vndk-26/android.hardware.power@1.0.so \
     vendor/huawei/hi6250-common/proprietary/lib64/vndk-26/android.hardware.radio.deprecated@1.0.so:system/lib64/vndk-26/android.hardware.radio.deprecated@1.0.so \
     vendor/huawei/hi6250-common/proprietary/lib64/vndk-26/android.hardware.radio@1.0.so:system/lib64/vndk-26/android.hardware.radio@1.0.so \
